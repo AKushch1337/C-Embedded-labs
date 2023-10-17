@@ -1,4 +1,4 @@
-Lab1: main.c
-	gcc main.c -o lab1
+Lab2: main.c
+	gcc main.c -o lab2
 clean:
-	rm -rf lab1
+	rm -rf lab2
