@@ -25,13 +25,13 @@ make
 ### Using gcc(if you have it installed)
 
 ```
-gcc main.c -o lab1
+gcc main.c -o lab2
 ```
 
 ## Run the project
 
 ```
-./lab1.exe
+./lab2.exe
 ```
 
 ## Clean the .exe
